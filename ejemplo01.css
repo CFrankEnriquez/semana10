@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+
+}
+.caja1{
+    /*border: linea estilo color;*/
+    border:4px dashed rgb(128, 0, 255) ;
+    margin:20px;
+     }
+     .caja2{
+        border:2px solid blue;
+        width: 500px;
+        margin-top: -15px;
+        margin-left: 30px;
+     }
+     .caja3{
+        border: 2px solid red;
+        width: 50%;
+        margin: 20x auto;
+        padding: 5px;
+     }
+
+     .caja4{
+        border: 2px solid #abd620 ;
+        width: 50%;
+        margin: 0 auto;
+        padding-top: 10px;
+        padding-right: 12px;
+        padding-bottom: 8px;
+        padding-left: 15px;
+        background-color: blue;
+        color:white;
+        border-radius: 30px;
+     }
+     .caja5{
+        width: 50%;
+        margin: 10px auto;
+        background-color: darkgoldenrod;
+        color: bisque;
+        border-top-left-radius: 10px ;
+        border-top-right-radius: 50px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        box-shadow: -10px -10px blueviolet;
+
+     }
+    
+

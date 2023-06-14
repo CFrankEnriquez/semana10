@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+}
+.real1{
+    border: 2px solid rgb(0, 255, 42);
+    width: 100%;
+    margin: 20x auto;
+    padding: 5px;
+    border-radius: 20px;
+   
+ }
+
+ .boton{
+   text-decoration-line: none;
+   background-color: green;
+   border-radius: 20px;
+   margin: 5px;
+   padding:5px;
+   font-size:14px;
+   color: blanchedalmond;
+     }
+     a:hover{
+        background-color: blue;
+        color: orangered;
+     }
